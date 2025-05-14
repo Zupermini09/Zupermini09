@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Zupermini09
 - 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Programming (Gdscript)
+- 🌱 I’m currently learning Programming (C#)
 - 💞️ I’m looking to collaborate on Game development
 - 📫 How to reach me GameDevMini on Youtube, Instagram and Tiktok
 - 😄 Pronouns: He/Him
