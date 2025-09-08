@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently learning Programming (C#)
 - 💞️ I’m looking to collaborate on Game development
-- 📫 How to reach me GameDevMini on Youtube, Instagram and Tiktok
+- 📫 How to reach me Zupermini09_ on Youtube, support@skranium.com
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Norwegian
 
