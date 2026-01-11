@@ -1,10 +1,10 @@
-👋 Hi, I’m Mini
+**👋 Hi, I’m Mini**
 
 • I’m a student based in Norway who enjoys turning ideas into real, working projects.
 
 • I design, build, and ship things—usually because I thought “that would be cool” and decided to make it happen.
 
-🚀 What I Do
+**🚀 What I Do**
 
 • Game development (learning by building)
 
@@ -14,7 +14,7 @@
 
 • I’m still learning, but I focus on practical projects, not tutorials that never ship.
 
-🛠 Tech Focus
+**🛠 Tech Focus**
 
 • Game development frameworks & engines
 
@@ -22,7 +22,7 @@
 
 • Self-hosted tools, automation, and small-scale systems
 
-🧠 How I Work
+**🧠 How I Work**
 
 • Idea first, polish later
 
@@ -30,7 +30,7 @@
 
 • Learn by breaking things (and fixing them)
 
-🎯 Fun Facts
+**🎯 Fun Facts**
 
 • Most of my projects start as “what if…”
 
