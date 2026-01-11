@@ -1,11 +1,39 @@
-- 👋 Hi, I’m @Zupermini09
-- 👀 I’m interested in Game Development and Website Development
-- 🌱 I’m currently learning Programming (C#, Python, HTML, etc.)
-- 📫 How to reach me: support@skranium.com or contact form on https://minitechworks.com/contact.html
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I am Norwegian
+👋 Hi, I’m Mini
 
-<!---
-Zupermini09/Zupermini09 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+• I’m a student based in Norway who enjoys turning ideas into real, working projects.
+
+• I design, build, and ship things—usually because I thought “that would be cool” and decided to make it happen.
+
+🚀 What I Do
+
+• Game development (learning by building)
+
+• Website development (frontend & backend basics)
+
+• Experimenting with new ideas, tools, and workflows
+
+• I’m still learning, but I focus on practical projects, not tutorials that never ship.
+
+🛠 Tech Focus
+
+• Game development frameworks & engines
+
+• Web development (HTML, CSS, JavaScript, backend fundamentals)
+
+• Self-hosted tools, automation, and small-scale systems
+
+🧠 How I Work
+
+• Idea first, polish later
+
+• Build fast, improve continuously
+
+• Learn by breaking things (and fixing them)
+
+🎯 Fun Facts
+
+• Most of my projects start as “what if…”
+
+• I prefer shipping something imperfect over not shipping at all
+
+• I enjoy mixing creativity with technical problem-solving
