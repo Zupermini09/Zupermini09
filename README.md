@@ -1,4 +1,4 @@
-<h2>**👋 Hi, I’m Mini**</h2>
+<h2>👋 Hi, I’m Mini</h2>
 
 • I’m a student based in Norway who enjoys turning ideas into real, working projects.
 
