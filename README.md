@@ -1,4 +1,4 @@
-**#👋 Hi, I’m Mini**
+**👋 Hi, I’m Mini**
 
 • I’m a student based in Norway who enjoys turning ideas into real, working projects.
 
