@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @Zupermini09
-- 👀 I’m interested in Game Development
-- 🌱 I’m currently learning Programming (C#)
-- 💞️ I’m looking to collaborate on Game development
-- 📫 How to reach me Zupermini09_ on Youtube, support@skranium.com
+- 👀 I’m interested in Game Development and Website Development
+- 🌱 I’m currently learning Programming (C#, Python, HTML, etc.)
+- 📫 How to reach me: support@skranium.com or contact form on https://minitechworks.com/contact.html
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am Norwegian
 
